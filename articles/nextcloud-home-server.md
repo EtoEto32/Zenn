@@ -2,7 +2,7 @@
 title: "Nextcloudで自宅鯖プライベートクラウド"
 date: "2026-02-05"
 tags: ["Nextcloud","自宅サーバー","プライベートクラウド"]
-author: "Ettotto
+author: "Ettotto"
 ---
 # Nextcloudで自宅鯖プライベートクラウド
 ## はじめに
